@@ -18,7 +18,9 @@ Keywords. Secure multiparty computation (with the acronym MPC, and
 sometimes SMPC), Linear Secret Sharing Schemes (LSSSs).
 
 Behind the Scenes :
- This Topic was part of the coursework  assigned to me by the lecturer of Crtical Systems Engineering (CS5032) and my job was to create a summary based on my understanding of the paper. At the first glance , It was just gibberish and pretty confusing to me but I gave myself time to understand the basics via watching related videos of how MPC functions and its integration with Sharing Schemes and the implementation in real -life scenarios. I was able to successfully understand the workings of the tool and its huge benefit in the field of distributed computing.
+The Critical Systems Engineering (CS5032) lecturer assigned me this topic as part of the coursework, and it was my responsibility to summarise it based on what I understood from the paper. When I initially looked at it, it seemed like gibberish and was quite complicated, but I gave myself time to learn the fundamentals by viewing films that explained how the MPC works, how it is integrated with sharing schemes, and how it is used in real-world situations. I was able to comprehend the tool's operation and its significant use in the field of distributed computing.
 
 Link to Original Paper : 
 https://dl.acm.org/doi/pdf/10.1145/3387108
+
+Link to basic Draft (v 1.0) :
