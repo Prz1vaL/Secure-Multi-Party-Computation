@@ -19,7 +19,7 @@ sometimes SMPC), Linear Secret Sharing Schemes (LSSSs).
 
 Behind the Scenes :
 
-The Critical Systems Engineering (CS5032) lecturer assigned me this topic as part of the coursework, and it was my responsibility to summarise it based on what I understood from the paper. When I initially looked at it, it seemed like gibberish and was quite complicated, but I gave myself time to learn the fundamentals by viewing films that explained how the MPC works, how it is integrated with sharing schemes, and how it is used in real-world situations. I was able to comprehend the tool's operation and its significant use in the field of distributed computing.
+As part of Critical Systems Engineering (CS5032)coursework, the lecturer assigned me this topic as part of the coursework, and it was my responsibility to summarise it based on what I understood from the paper. When I initially looked at it, it seemed like gibberish and was quite complicated, but I gave myself time to learn the fundamentals by viewing films that explained how the MPC works, how it is integrated with sharing schemes, and how it is used in real-world situations. I was able to comprehend the tool's operation and its significant use in the field of distributed computing.
 
 Link to Original Paper : 
 
